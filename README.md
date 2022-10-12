@@ -1,2 +1,2 @@
-# site
-Entropy1729 website
+# Entropy1729 Site
+
